@@ -1,0 +1,11 @@
+admin@rukuntetangga3.com
+U ; admintiga
+P ; admintiga
+
+
+admin/login
+adminlogin@skripsi.com
+U ; adminlogin
+P ; adminlogin
+
+https://codedthemes.com/item/flash-able-bootstrap-admin-template/ (Template Tema)
