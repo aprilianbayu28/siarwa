@@ -10,5 +10,5 @@ P ; adminlogin
 
 https://codedthemes.com/item/flash-able-bootstrap-admin-template/ (Template Tema)
 
-
-TESTING PULL 
+untuk upload file dari local git push 
+untuk ambil dari github ke local git pull
